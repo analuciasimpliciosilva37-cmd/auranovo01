@@ -1,0 +1,7 @@
+{
+  "name": "AuraFin1",
+  "description": "Uma plataforma de gestão financeira inteligente e global que ajuda você a organizar gastos, planejar investimentos e alcançar a abundância financeira.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
